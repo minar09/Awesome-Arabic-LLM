@@ -9,10 +9,13 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 - [Apps](#apps)
 - [Workshops](#workshops)
 - [Lists](#lists)
-- [Other Resources](#other-resources)
+- [Leaderboard](#leaderboard)
 
 
 ## Papers
+- JASMINE: Arabic GPT Models for Few-Shot Learning - [Paper](https://arxiv.org/pdf/2212.10755)
+- LAraBench: Benchmarking Arabic AI with Large Language Models - [Paper](https://arxiv.org/pdf/2305.14982), [Code](https://github.com/qcri/LLMeBench)
+
 
 
 
@@ -27,9 +30,11 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 ## Workshops
 
 
+
 ## Lists
+- [Awesome Arabic NLP](https://github.com/Curated-Awesome-Lists/awesome-arabic-nlp)
 
 
 
-## Other Resources
-
+## Leaderboard
+- [Open Arabic LLM Leaderboard](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard)
