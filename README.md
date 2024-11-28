@@ -6,6 +6,7 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 
 - [Papers](#papers)
 - [Projects](#projects)
+    - [Huggingface](#huggingface)
 - [Apps](#apps)
 - [Workshops](#workshops)
 - [Lists](#lists)
@@ -20,6 +21,11 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 
 
 ## Projects
+
+### Huggingface
+- [SILMA](https://huggingface.co/silma-ai/SILMA-9B-Instruct-v1.0)
+- [Barka](https://huggingface.co/Slim205/Barka-9b-it-v02)
+
 
 
 
