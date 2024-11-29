@@ -1,5 +1,4 @@
-# Awesome-Arabic-LLM نماذج لغة عربية كبيرة رائعة
- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Arabic-LLM نماذج لغة عربية كبيرة رائعة [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome LLM research papers, projects, code, datasets, resources, etc. for the  Arabic language.
 
 
