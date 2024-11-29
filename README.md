@@ -13,6 +13,7 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 - [Datasets](#datasets)
 - [Tokenizers](#tokenizers)
 - [Misc.](#misc.)
+- [Multilingual](multilingual)
 
 
 ## Papers
@@ -65,4 +66,7 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 - [ARBML](https://github.com/ARBML)
 
 
-  
+
+## Multilingual
+- [Qwen](https://github.com/QwenLM/Qwen)
+
