@@ -6,21 +6,22 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 
 - [Papers](#papers)
 - [Projects](#projects)
-- [Apps](#apps)
-- [Workshops](#workshops)
 - [Lists](#lists)
-- [Leaderboard](#leaderboard)
+- [Leaderboards](#leaderboards)
 - [Datasets](#datasets)
 - [Tokenizers](#tokenizers)
 - [Misc.](#misc.)
 - [Multilingual](multilingual)
+- [Apps](#apps)
+- [Workshops](#workshops)
+
 
 
 ## Papers
 - JASMINE: Arabic GPT Models for Few-Shot Learning - [Paper](https://arxiv.org/pdf/2212.10755)
 - LAraBench: Benchmarking Arabic AI with Large Language Models - [Paper](https://arxiv.org/pdf/2305.14982), [Code](https://github.com/qcri/LLMeBench)
 - ArzEn-LLM: Code-Switched Egyptian Arabic-English Translation and Speech Recognition Using LLMs - [Paper](https://arxiv.org/abs/2406.18120), [Code](https://github.com/ahmedheakl/arazn-llm)
-
+- ALLaM: Large Language Models for Arabic and English - [Paper](https://arxiv.org/abs/2407.15390)
 
 
 
@@ -32,22 +33,12 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 
 
 
-## Apps
-
-
-
-
-## Workshops
-
-
-
-
 ## Lists
 - [Awesome Arabic NLP](https://github.com/Curated-Awesome-Lists/awesome-arabic-nlp)
 
 
 
-## Leaderboard
+## Leaderboards
 - [Open Arabic LLM Leaderboard](https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard)
 
 
@@ -69,4 +60,11 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 
 ## Multilingual
 - [Qwen](https://github.com/QwenLM/Qwen)
+
+
+
+## Apps
+
+
+## Workshops
 
