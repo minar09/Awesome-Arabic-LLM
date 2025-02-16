@@ -26,6 +26,7 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 
 
 ## Projects
+- [Arabic-Local-GPT](https://github.com/minar09/arabic-local-gpt)
 - [SILMA](https://huggingface.co/silma-ai/SILMA-9B-Instruct-v1.0)
 - [Barka](https://huggingface.co/Slim205/Barka-9b-it-v02)
 - [AceGPT](https://github.com/FreedomIntelligence/AceGPT)
