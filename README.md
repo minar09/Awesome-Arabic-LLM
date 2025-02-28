@@ -1,11 +1,11 @@
 # Awesome-Arabic-LLM نماذج لغة عربية كبيرة رائعة [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome LLM research papers, projects, code, datasets, resources, etc. for the  Arabic language.
+A curated list of awesome LLM research papers, LLM models, code, datasets, resources, etc. for the  Arabic language.
 
 
 ## Table of Contents
 
 - [Papers](#papers)
-- [Projects](#projects)
+- [LLMs](#llms)
 - [Lists](#lists)
 - [Leaderboards](#leaderboards)
 - [Datasets](#datasets)
@@ -25,7 +25,8 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 
 
 
-## Projects
+## LLMs
+- [Command R7B Arabic](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025)
 - [Arabic-Local-GPT](https://github.com/minar09/arabic-local-gpt)
 - [SILMA](https://huggingface.co/silma-ai/SILMA-9B-Instruct-v1.0)
 - [Barka](https://huggingface.co/Slim205/Barka-9b-it-v02)
@@ -61,7 +62,6 @@ A curated list of awesome LLM research papers, projects, code, datasets, resourc
 
 ## Multilingual
 - [Qwen](https://github.com/QwenLM/Qwen)
-
 
 
 ## Apps
