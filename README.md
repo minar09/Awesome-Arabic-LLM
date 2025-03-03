@@ -26,6 +26,7 @@ A curated list of awesome LLM research papers, LLM models, code, datasets, resou
 
 
 ## LLMs
+- [ALLaM](https://ollama.com/iKhalid/ALLaM)
 - [Command R7B Arabic](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025)
 - [Arabic-Local-GPT](https://github.com/minar09/arabic-local-gpt)
 - [SILMA](https://huggingface.co/silma-ai/SILMA-9B-Instruct-v1.0)
